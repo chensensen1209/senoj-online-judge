@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "knife4j.gateway.enabled",
+      "type": "java.lang.String",
+      "description": "Description for knife4j.gateway.enabled."
+  }
+] }
